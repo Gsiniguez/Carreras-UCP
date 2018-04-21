@@ -1,0 +1,97 @@
+[{
+    "Nombre": "ISI",
+    "Descripcion": "Descripcion...",
+    "NumMaterias": 46,
+    "Materias": [{
+        "Numero": 1,
+        "Nombre": "Algebra y Lógica Computacional",
+        "Correlativa": "...",
+        "SumaMateriasNecesarias": 0
+      },
+      {
+        "Numero": 2,
+        "Nombre": "Introducción a la Informática",
+        "Correlativa": "...",
+        "SumaMateriasNecesarias": 0
+      },
+      {
+        "Numero": 3,
+        "Nombre": "Química General",
+        "Correlativa": "...",
+        "SumaMateriasNecesarias": 0
+      },
+      {
+        "Numero": 4,
+        "Nombre": "Sistemas y Organizaciones",
+        "Correlativa": "...",
+        "SumaMateriasNecesarias": 0
+      },
+      {
+        "Numero": 5,
+        "Nombre": "Inglés",
+        "Correlativa": "...",
+        "SumaMateriasNecesarias": 0
+      },
+      {
+        "Numero": 6,
+        "Nombre": "Análisis Matemático I",
+        "Correlativa": "1",
+        "SumaMateriasNecesarias": 1
+      },
+      {
+        "Numero": 7,
+        "Nombre": "Arquitectura de Computadoras",
+        "Correlativa": "1-2",
+        "SumaMateriasNecesarias": 3
+      }
+    ]
+  },
+  {
+    "Nombre": "ISI2",
+    "Descripcion": "Descripcion...",
+    "NumMaterias": 46,
+    "Materias": [{
+        "Numero": 1,
+        "Nombre": "Algebra y Lógica Computacional",
+        "Correlativa": "...",
+        "SumaMateriasNecesarias": 0
+      },
+      {
+        "Numero": 2,
+        "Nombre": "Introducción a la Informática",
+        "Correlativa": "...",
+        "SumaMateriasNecesarias": 0
+      },
+      {
+        "Numero": 3,
+        "Nombre": "Química General",
+        "Correlativa": "...",
+        "SumaMateriasNecesarias": 0
+      },
+      {
+        "Numero": 4,
+        "Nombre": "Sistemas y Organizaciones",
+        "Correlativa": "...",
+        "SumaMateriasNecesarias": 0
+      },
+      {
+        "Numero": 5,
+        "Nombre": "Inglés",
+        "Correlativa": "...",
+        "SumaMateriasNecesarias": 0
+      },
+      {
+        "Numero": 6,
+        "Nombre": "Análisis Matemático I",
+        "Correlativa": "1",
+        "SumaMateriasNecesarias": 1
+      },
+      {
+        "Numero": 7,
+        "Nombre": "Arquitectura de Computadoras",
+        "Correlativa": "1-2",
+        "SumaMateriasNecesarias": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Ionic Blank
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-item *ngFor=" let c of carreras">
+    <p>{{c.Nombre}}</p>
+    <p>{{c.Descripcion}}</p>
+    <p>Materias: {{c.NumMaterias}}</p>
+    <ion-item *ngFor="let mat of c.Materias">
+      <p>{{mat.Numero}}</p>
+      <p>{{mat.Nombre}}</p>
+      <p>{{mat.Correlativa}}</p>
+      <p>{{mat.SumaMateriasNecesarias}}</p>
+    </ion-item>
+  </ion-item>
+</ion-content>
